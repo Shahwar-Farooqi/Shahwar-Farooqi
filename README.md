@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shahwar-Farooqi (can be considered as a Newbie!).
+- 👋 Hi, I’m @Shahwar-Farooqi (Newbie in the community!).
 - 👀 I’m interested in becoming a full stack developer.
 - 🌱 I’m currently learning basics of Front-end development.
 - 💞️ I’m looking forward to expand my network and connections.
